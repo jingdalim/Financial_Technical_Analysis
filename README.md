@@ -86,7 +86,11 @@ We will be predicting the closing price using the Linear Regression and Decision
 
 The RMSE of the Linear Regression model is 5.705018852367454e-06.
 
+![image](https://user-images.githubusercontent.com/74403956/121787679-133d9e80-cbfa-11eb-855e-6fa38880aee4.png)
+
 The RMSE of the Decision Tree model is 4.6892549800796745e-05.
+
+![image](https://user-images.githubusercontent.com/74403956/121787672-07ea7300-cbfa-11eb-9140-736b96893bc3.png)
 
 ## 7. Limitations and Next Steps
 At first glance, it appears that the SMA crossover strategy is superior to the buy-and-hold strategy. However, it is important to note that we only tested this on one stock. The variability of SingPost stock is not very high and it is likely that this is a fluke. The next step would be to try this strategy on more volatile stocks and on many more stocks.
