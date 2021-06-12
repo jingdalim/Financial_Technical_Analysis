@@ -34,7 +34,7 @@ Step 5: Dummify categorical data for use in Machine Learning (ML) models
 Step 6: Predict Closing Price using Machine Learning (ML) Models
 
 ## 2. Data Cleaning
-Steps
+
 1. Import necessary libraries
 2. Connect to JSON API
 3. Convert JSON data to Pandas DataFrame
@@ -42,7 +42,7 @@ Steps
 
 ## 3. Exploratory Data Analysis
 
-**Fig 1: Fig 1: SingPost Stock Price**
+**Fig 1: SingPost Stock Price**
 
 ![image](https://user-images.githubusercontent.com/74403956/121787264-ade8ae00-cbf7-11eb-8ce6-0339cd871342.png)
 
