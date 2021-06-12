@@ -69,7 +69,7 @@ Step 6: Predict Closing Price using Machine Learning (ML) Models
 
 ## 4. Comparing Buy-and-hold and Simple Moving Average Technical Analysis Strategies
 
-We wimm implement a buy-and-hold strategy and an SMA strategy (we buy or sell shares depending on the relative positions of the two SMA lines).
+We will implement a buy-and-hold strategy and an SMA strategy (we buy or sell shares depending on the relative positions of the two SMA lines).
 
 A "cross" occurs when two SMA lines cross each other. A golden cross is considered a bullish signal, i.e. favorable signal, and occurss when a short/intermediate-term SMA rises above the long-term SMA.
 
